@@ -1,0 +1,5 @@
+{
+  "name": "blind-box-workflow-backend",
+  "private": true,
+  "scripts": { "start": "node server.js", "test": "node --test test/server.test.js" }
+}
