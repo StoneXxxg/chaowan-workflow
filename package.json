@@ -1,0 +1,8 @@
+{
+  "name": "chaowan-workflow",
+  "private": true,
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "npm test --prefix backend"
+  }
+}
